@@ -1,1 +1,2 @@
-# goit-js-hw-02
+# goit-js-hw-01
+ДЗ - 2 по JS
